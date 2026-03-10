@@ -111,6 +111,8 @@ DISCRETE FOURIER TRANSFORM USING DIRECT METHOD
 <img width="1170" height="621" alt="image" src="https://github.com/user-attachments/assets/49aa1433-5387-44d2-8d94-28db3cfeb079" />
 
 DISCRETE FOURIER TRANSFORM USING FFT ALGORITHM
+<img width="1225" height="715" alt="image" src="https://github.com/user-attachments/assets/c3f277a1-c415-4d04-b56b-3766563892e4" />
+
 
 
 
